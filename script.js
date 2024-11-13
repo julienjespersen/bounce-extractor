@@ -1,5 +1,6 @@
 const fileInput = document.getElementById('fileInput');
 const pre = document.querySelector('pre');
+const dlBtn = document.querySelector('button');
 let finalList = [];
 
 function extractEmail(text) {
@@ -13,10 +14,6 @@ function removeDuplicates(array) {
 
 
 
-fileInput.addEventListener('change', function(event) {
-    const files = event.target.files; // or use fileInput.files
-    processFiles(files);
-});
   
 function processFiles(files) {
     for (let i = 0; i < files.length; i++) {
@@ -46,36 +43,33 @@ function processFiles(files) {
     }
 }
 
+function downloadCSV(data, filename = 'export.csv') {
+    // Convert array to CSV string
+    const csvContent = data.join('\n');
+  
+    // Create a Blob with the CSV data
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+  
+    // Create a download link
+    const link = document.createElement('a');
+    if (link.download !== undefined) {
+      const url = URL.createObjectURL(blob);
+      link.setAttribute('href', url);
+      link.setAttribute('download', filename);
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  }
 
+fileInput.addEventListener('change', function(event) {
+    const files = event.target.files; // or use fileInput.files
+    processFiles(files);
+});
 
-// fileInput.addEventListener('change', e => {
+dlBtn.addEventListener('click', e => {
+    console.log(finalList)
 
-//     // console.table(e.target.files)
-//     [e.target.files].forEach(file => {
-//         console.log(file)
-        
-
-
-//         // const file = e.target.files[0];
-//         let reader = new FileReader();
-        
-//         reader.onload = function(ev) {
-//             let contents = ev.target.result;
-//             if (contents) {
-//                 let emails = extractEmail(contents);
-//                 if (emails) {
-                    
-//                     finalList = [...finalList, ...emails];
-//                     finalList = removeDuplicates(finalList);
-//                     newText = finalList.join('\n')
-//                     pre.textContent = newText
-//                 }
-                
-//                 console.table(finalList);
-//             }
-//         };
-        
-//         reader.readAsText(file);
-//     });
-
-// });
+    downloadCSV(finalList)
+})
