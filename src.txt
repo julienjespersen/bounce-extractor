@@ -1,0 +1,221 @@
+Received: from ZR1P278MB1409.CHEP278.PROD.OUTLOOK.COM (2603:10a6:910:97::7) by
+ ZRAP278MB0804.CHEP278.PROD.OUTLOOK.COM with HTTPS; Mon, 11 Nov 2024 13:50:07
+ +0000
+Received: from DU2P251CA0030.EURP251.PROD.OUTLOOK.COM (2603:10a6:10:230::30)
+ by ZR1P278MB1409.CHEP278.PROD.OUTLOOK.COM (2603:10a6:910:97::7) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.28; Mon, 11 Nov
+ 2024 13:50:06 +0000
+Received: from DB1PEPF000509E3.eurprd03.prod.outlook.com
+ (2603:10a6:10:230:cafe::21) by DU2P251CA0030.outlook.office365.com
+ (2603:10a6:10:230::30) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8137.29 via Frontend
+ Transport; Mon, 11 Nov 2024 13:50:06 +0000
+Received: from lunigw2.unige.ch (129.194.9.223) by
+ DB1PEPF000509E3.mail.protection.outlook.com (10.167.242.53) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.8158.14
+ via Frontend Transport; Mon, 11 Nov 2024 13:50:06 +0000
+Received: from localhost by lunigw2.unige.ch;
+  11 Nov 2024 14:49:53 +0100
+From: The UniGE's postmaster <postmaster@unige.ch>
+Subject:
+	=?iso-8859-1?Q?Undeliverable:_Vos_prochains_=E9v=E9nements_carri=E8re:_de?=
+ =?iso-8859-1?Q?rni=E8re_ligne_droite_avant_2025!?=
+Thread-Topic:
+	=?iso-8859-1?Q?Vos_prochains_=E9v=E9nements_carri=E8re:_derni=E8re_ligne_?=
+ =?iso-8859-1?Q?droite_avant_2025!?=
+Thread-Index: AQHbNECe799BwJgN9UGQ+VpCOJ0rEw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 11 Nov 2024 13:49:53 +0000
+Message-ID: <efa009$2f07eb@lunigw2.unige.ch>
+Content-Language: fr-FR
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource:
+	DB1PEPF000509E3.eurprd03.prod.outlook.com
+X-MS-Has-Attach: yes
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Organization-Network-Message-Id:
+	e0f4dfba-a2a5-41ad-240a-08dd0257c02c
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: Pass (protection.outlook.com: domain of lunigw2.unige.ch
+ designates 129.194.9.223 as permitted sender)
+ receiver=protection.outlook.com; client-ip=129.194.9.223;
+ helo=lunigw2.unige.ch; pr=C
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:1;jmr:0;auth:0;dest:D;OFR:CustomRules;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?iso-8859-1?Q?LyWEgtcT6E+oC5koqBWi7SnZCeeppReyukTi8P+LeEMiSxt0/9tr1BX09S?=
+ =?iso-8859-1?Q?wqjz4FMbYkt3kcFPBGyvQFBupC4F011ldg5mA6zvBPRqc+a/iqiKUmFOb+?=
+ =?iso-8859-1?Q?jsclxKLHQZ+1Es9mFpwoaNpSK2k5RwNxv773dwE6Meyd98HvWoQ7U/tm11?=
+ =?iso-8859-1?Q?zFfKASploBcQby8jQMWQ0DJSPSBsnvH84J2pfuRyoAFTMWIVolOKBFcCYW?=
+ =?iso-8859-1?Q?RjRqWMtikwd3YTot9VqASjgu2d60Qe3cUD/EMZV+EbrYLva5wyQE15qBjj?=
+ =?iso-8859-1?Q?luLvKWQ8pE+YpOvV0NCgaIR4oJgYKy2jfR1Kb9zdALAe8EQwGXgLFadqMl?=
+ =?iso-8859-1?Q?t8xZ0KoW9QJlktQVgYpVl2/IBMAiO1Y3Jqkz6Lb4m4VTcwYOWiHKTYwGor?=
+ =?iso-8859-1?Q?fN7zNuVkxSjEc91hYL+7AYIIg3eDza3NBHwe4eeHpG5W64Wduor5CSvWH/?=
+ =?iso-8859-1?Q?+P9MAgI53egG1SQv24ZUH2dq1+QKbymSDS0cSnMiONIfq/3KbAIvjrPBPz?=
+ =?iso-8859-1?Q?vYYswyy7XMieqorp+hfp5/nw+Zzkp5DHRoTX7EZbddiMnr0L1goIUE6KJm?=
+ =?iso-8859-1?Q?VI3BxFronvGu0Tjs7lUd7K4bmZe4u8TgH1Kls51N2gU1XY5WsJy7kr9Ec0?=
+ =?iso-8859-1?Q?5M4q+aasEDpHA2vLlocqbQgt6zAWC5x5BPSMdQTNWBDK6nNUkigdtxyp0B?=
+ =?iso-8859-1?Q?FUGjKuqpXevLPlMOjHMQsIMa8N2LMBGGGQkgNqXTt0Umjllykp9Df1X5EQ?=
+ =?iso-8859-1?Q?nN8jNr1LazteBwISCHFahEyxpif0Lz7QlDMWDVekP+sTXEMlQAt14sPmLJ?=
+ =?iso-8859-1?Q?pKS3FqCAgtELZ5Fu+8M4/9xH6rD5ukKy1Yy3nXujFsEy1vzgeLoUwP4rpa?=
+ =?iso-8859-1?Q?comJ4lYzM4QMo42uH7JO5fLXzAXguv/M/qm6yaVqgEJvOPXb6qT9SI5ADO?=
+ =?iso-8859-1?Q?gR4gkfjBwEWmWI24bZGASDToNPxtDIsRG3oO5lNYQQdJqxUgM7HgCfAccp?=
+ =?iso-8859-1?Q?8YnjbbvxnyV3k6nyjx4Xiihp7kq2FFNY3DV2eaYHxARbDkA0Wem9P+d+rc?=
+ =?iso-8859-1?Q?4YD9e++5rOPNnN2u5aMQXxxyJvUXPOzeaT2AxfpDo34imDpmgDp/FiWx4I?=
+ =?iso-8859-1?Q?CnxdEBy9/DIesgtV9rqeuORgZ18YMc7c9o0hznUhJrstZCl0NPrZmBxAQf?=
+ =?iso-8859-1?Q?eAdR2oCwDW0qPSCqc8uO1RwtAyr8hdENa4sG2NAFAsVKC5SuDrrClkPn/i?=
+ =?iso-8859-1?Q?cq+qhWMNchm2c636wnimctKniJ4vqItR5UDo4+KSI9ElNTjIhQAPiIsUmt?=
+ =?iso-8859-1?Q?Kdd3m+ryCNgUXUWj+AOI27nt6Fwh6whf0IxHGK7gwr92d9A90noSIkSO7h?=
+ =?iso-8859-1?Q?u7mJkcE+UxmQGNOOEyB3a3wVCJL8oxTWH5KwUMlZXew4Icz7Mi8Ig3wKWQ?=
+ =?iso-8859-1?Q?PGv3tCg+KpsrFyzmhyoB5gyHSPrtJCftnPvu3kzAyj8jwTsuUzdtfX8BS6?=
+ =?iso-8859-1?Q?wwA7TnyzjhyZ8MzTrnx6e/gqRj1XqaTDv+nSPvpuGF/j4vGFRLtSkLzuMC?=
+ =?iso-8859-1?Q?kK5vXaAQC38UYZshJfKN+rZk5CL5B9Tei7PsYtvNmaJRJES+pxaj431Zek?=
+ =?iso-8859-1?Q?uCCO5dP9Ifs60TrUOfff2uJKrCfLB+PhcNNdNxxnCbPEDnTQ0yMks85NXN?=
+ =?iso-8859-1?Q?YaOHA/lH22+CZhmw1i3Uuh8h5tued+DBIH+2Oa5G5fyn2Cn11w/PQ/j3gj?=
+ =?iso-8859-1?Q?FTMydd73uaW0GeWaYRli1pGGO6JT71Hdg3p/3RRJlJdPzH2VPoIugiMWq9?=
+ =?iso-8859-1?Q?3+jlVhiWvN/9vPuNw5LmJSEepHLM9ng6hqDHv6wv5TM+Gs8g3AvG+Awm6Q?=
+ =?iso-8859-1?Q?vl2NwdhHJae+S1ArZezKjRNsxkIQd0i4qlUuLGhYFCf+Io1KgwmebwzHN8?=
+ =?iso-8859-1?Q?Bh8ObvDx4D3cJnF1itjlxu3R/NTv60JI55g/UJPaoKZ10Soo9v1KADafVr?=
+ =?iso-8859-1?Q?j39D7QIQbrb8/YxRPWz9fVI/9sZOaf3l1zEOmcf/zlj+8hLfb55KMIYvyM?=
+ =?iso-8859-1?Q?8iuapaireUFKWyQERjQObdcqLSH2sPC5aCD18iA5iv3Ylfquwqu/mJBBF+?=
+ =?iso-8859-1?Q?0ZN6QBMeb//moK2GMod7+0OcJcRKC4Sp+lJ60cgdEu1pLVWa8OCtZBJTy2?=
+ =?iso-8859-1?Q?EWI=3D?=
+Content-Type: multipart/report; boundary="_000_efa0092f07eblunigw2unigech_";
+	report-type=delivery-status
+MIME-Version: 1.0
+
+--_000_efa0092f07eblunigw2unigech_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-ID: <A3E5173DD1FBDA42A12CEAE81F7AADD1@CHEP278.PROD.OUTLOOK.COM>
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <claudine.schuchert@etu.unige.ch> was undeliverabl=
+e.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'5.4.1 Recipient address rejected: Access=
+ denied. [DB1PEPF000509EB.eurprd03.prod.outlook.com 2024-11-11T13:49:53.780=
+Z 08DD00E6A568D3D2]'
+
+--_000_efa0092f07eblunigw2unigech_
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; lunigw2.unige.ch
+
+Final-recipient: RFC822; claudine.schuchert@etu.unige.ch
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; [52.101.68.8]
+X-Supplementary-Info: <[52.101.68.8] #5.0.0 smtp; 5.1.0 - Unknown address
+ error 550-'5.4.1 Recipient address rejected: Access denied.
+ [DB1PEPF000509EB.eurprd03.prod.outlook.com 2024-11-11T13:49:53.780Z
+ 08DD00E6A568D3D2]' (delivery attempts: 0)>
+
+
+--_000_efa0092f07eblunigw2unigech_
+Content-Type: message/rfc822
+Content-Disposition: attachment;
+	creation-date="Mon, 11 Nov 2024 13:50:08 GMT";
+	modification-date="Wed, 13 Nov 2024 09:42:30 GMT"
+Content-ID: <69656C5275F5D44EBF9C0C73C4EE323D@CHEP278.PROD.OUTLOOK.COM>
+
+X-CSE-ConnectionGUID: HPDSVVPVStKM4J5oyvrc4Q==
+X-CSE-MsgGUID: L4J+PuF7R5msqRPLQM8uhQ==
+X-IronPort-AV: E=Sophos;i="6.12,145,1728943200"; 
+   d="scan'208,217";a="82843039"
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=unige.ch; q=dns/txt; s=20240925;
+  h=date:to:from:subject:message-id:mime-version:
+   content-transfer-encoding;
+  bh=xDWYCrdesuW5YTGRyA36jE0JBDO3TAIjqhnXZeTUFJA=;
+  b=E8oY0X0xarG0v+kNrsaTMeLHmvG5eE3mLXH25R/R/HLjvkwvt4MnMaJS
+   f1LjGbOy/w9PcBwFzyOivZGYJyubxhyN/rRE+5PKd8bJqDPWWefWG0pvi
+   aQM/XgO2q3KJeLVyqXS08JXQ9I6O99IZmDr3nhPrQFreP6J/X2bDSRZmq
+   t4feX7lSoYDnhlE8dxilm1iVrDXK/iLtj+0ouGBFF6+DahIpCbeeECLB+
+   a4AG8tWJQ89iY7rF8Gr3j1Tc9Dg2LKJwHnOxekdeF1LidHX84f8JKV8SH
+   6sGSXu1zzHIqWAr06GKghCvckqrRW29Mh/tdxtn63H5AI+rUBc21nsg/g
+   Q==;
+X-CSE-ConnectionGUID: 5UFG0LcKTbqpEO0iXRB4/g==
+X-CSE-MsgGUID: Su6s3dSvQiqHtuwL1Sr9aQ==
+X-UniGE-FromBody-INT: =?utf-8?q?Centre_de_carri=C3=A8re_UNIGE_=3Ccarriere=40unige=2Ech=3E?=
+X-UniGE-CTRL-Reply-to-INT: carriere@unige.ch-
+X-UniGE-CTRL-From-INT: =?utf-8?q?carriere=40unige=2Ech-Centre_de_carri=C3=A8re_UNIGE_=3Ccarriere?=
+ =?utf-8?q?=40unige=2Ech=3E?=
+X-UniGEOutBound: True
+X-UNIGE-IPFilterTestExist: 10.13.13.15-TestExist
+X-UNIGE-IPFilterExclude: 10.13.13.15-Exclude
+X-UNIGE-IPFilterHeaderFromCheck: =?utf-8?q?10=2E13=2E13=2E15-Centre_de_carri=C3=A8re_UNIGE_=3Ccarriere=40u?=
+ =?utf-8?q?nige=2Ech=3E?=
+X-UNIGE-IPFilterEnvFromCheck: 10.13.13.15-carriere@unige.ch
+X-UNIGE-IPFilterTestExist-PassedCheck: False
+X-ThreatScanner-Verdict: Negative
+X-IronPort-AV: E=Sophos;i="6.12,145,1728943200"; 
+   d="scan'208,217";a="82807519"
+X-Amp-Result: SKIPPED(no attachment in message)
+X-Amp-File-Uploaded: False
+X-IPAS-Result: =?us-ascii?q?A2G+AADX+zFn/w8NDQpaHAEBARIBAQcBAQEBAQQEAQFAg?=
+ =?us-ascii?q?T8HAQELAYFAggCBZIQaPJB8gh6DBY1njACBcwsPAQEBAQEBAQEBNwEMCQQBA?=
+ =?us-ascii?q?QMEhR+KHyc0CQ4BAgQBAQEBAwIDAQEBAQEBAQEBDQEBAQUBAQEBAQEGBAEBA?=
+ =?us-ascii?q?QKBHYU1Rg2CNQgCBoFCgSYBAQEBAQEBAQEBAQEdAhSBCRcKBQE0BCccAiYCc?=
+ =?us-ascii?q?QgEgnaCZBQGlAmbS3qBMh9ig21A2kqBIwaBGhYYAYhLASqBMgKDexCEd0KCD?=
+ =?us-ascii?q?TRhg2iCYQMBGIEkAQFtgw4ZglAEgkOBNIJydiWBFod/hzuBM2aPBSwcgSEDW?=
+ =?us-ascii?q?SERAQ8RNRMNCgsHBYF3A4JRBXorgQ6BFzoBgX2BIkqEOGJGP4JKaU03Ag0CN?=
+ =?us-ascii?q?oIkfYJPgyyBcYRvQCcvAwMDA4NFgiMdQAMLBxENSBEsNRQbBgIBOwpkBwWdD?=
+ =?us-ascii?q?AGBJQFGgjKBZmNFnw6pDzKCDR+BRgWMEZUxEhwXoFIBiXqXBoFxjX+WPoUbg?=
+ =?us-ascii?q?TKCFoEFgm4BM1IZD5FzxmQCdwI5AgcBCgEBAwkBgjgBjF2BTAEB?=
+IronPort-PHdr: A9a23:MzugdxL34CSSGBD/gtmcuLdhWUAX0o4c3iYr45Yqw4hDbr6kt8y7e
+ hCEvLM01hSVBs2bs6sC17GO9fi4GCQp2tWojjMrSNR0TRgLiMEbzUQLIfWuLgnWCsCvRAEBW
+ Pp4aVl+4nugOlJUEsutL3fbo3m18CJAUk6nbVk9Kev6AJPdgNqq3O6u5ZLTfx9IhD2gar9uM
+ Rm6twrcu8cLjYd4N6o91BTFr3RGdu9LwW9kOU+fkwzz68q+4JJv6Thct+4k+8VdTaj0YqM0Q
+ KBXAzghL207/tDguwPZTQuI6HscU2EWnQRNDgPY8hz0XYr/vzXjuOZl1yeUJcL5QakqVDqt8
+ qlnUBDnhjsJOD4/62HXl9d/jLlHrxK7phxw2JDbbYeIP/djZKzdfNcaRW1cXsZNUiFKH42xY
+ 5cTA+cHIO1UqY7zqkcNoxW4BgeiHOLhwSJMinPr36A21uIsGhzE0gM9BdIDqHraosv1OqkPU
+ u67y6bHwinMYf5N2Tfw64rIfgwhrP2QX799d9fax0k1FwPCi1WdsZLoMC2T1uQRqWiU8fdrW
+ v+xhGU6tw5+uCKvxt0tio7QnIIa1E3P+ithzog2JNO2R1NwbNm4H5RKrSGaLYp2Td04Q252o
+ ys617sGuZ+0fCcU0pgo2x7fZuWBfoOV7R3tSPyfLi1khHJ5Zr2/nRCy/FC9x+DzWMe50lZHo
+ ytYn9fDqn0BygLf5tWJR/Z//0qv1zaC2Q7N5+xKL004iKTVJp48zrA+ipYfrUbOEjH4lUj1i
+ qKda0sq+u+t6+v9Y7XmoIeRN5JyigH/PaQhhNazDvg4MgUIQmOV+vy82aX+8UHlWrlGk/M7n
+ rPEvJ3UP8gXu660DglI2Yg58Rm/FS2p0NEAkHkCK1JKZQyIgpDyO1HLPPD4FfC/g0mwkDtzx
+ /DJILnhApLVI3jelrfhfLl95FBGxAUvzdBT/5NUCrcfL/LvQkL9qcDUAgUkPwG62errFdtw2
+ pkDVW+PGqOZNbndsV6M5uIhOemMY4oVtS7hJPc//f7ul345lkEHfaa3xpYXdXa4HvVpI0qHe
+ 3bjntcBHX8QvgUiVOzqlEGCUTlLanmuW6Iz/Cw7B5+nDYfFWI+hmqeB0zu7Hp1Lem9GCk6DE
+ W30d4ifRfgMdD+SLtV8kjwCVLihRJEu2Quyuw/607ZnKPHb9TUCtZ3/zNh1+/HTlRYq+DBpF
+ 8idyX+CT393kG0SXzI2x6F/oUhjxVeFz6d1g+ZUFcFV5/NIXQc1K4TQwPB6C9zqRw3BfdaJS
+ FO+T9u+Dj8+QMw/zcMSbkh7A9mtkxXD0DCwA7AJj7GFHIU6/LrT0XTpPMZ903jG2bE5gVc/W
+ sVBOnWqhrVn9wjdH4HJk1uWl6KtdakExCDD7X+Nw2Xd9HxeSxN6BKDMXHQDYRndpM7j507YQ
+ pezD7UoP01KyZ2/LLBXYP31iFETQf7iPMjZMWm4gX2xCAyF7q6KbYXnPW4djxnaXUMAmh0f/
+ HCLcxM1Bjqqo2/EEBRjCU+pfkXt/uQ4o3PoYFUzylShYkt9zbf99hNdjvWGUfKTxL9MhQEAh
+ Bg8SF20xcjXBsCNjxdnfapRJ9g9tgQUnVnFvhBwa8X5fOhZjVkEflEu4CvT
+IronPort-Data: A9a23:Ug8gvqktr/X8vZxkiP9CtSTo5gzAJ0RdPkR7XQ2eYbSJt1+Wr1Gzt
+ xIfXGzXa62KZ2KjLdt0PI7j9xhQsZHTzIBmGwJp+C4yHi4T+ZvOCP2ndUqhZCn6wu8v7a5EA
+ 2fyTvGacajYm1eF/k/F3oDJ9CQ6iOfSAOKlWIYoAwgpLSd8UiAtlBl/rOAwh49skLCRDhiE0
+ T/Ii5S31GSNhXgtaAr414rZ8Ekz5a2r4WtB1rADTakjUGH2xiF94K03ePnZw0vQGuF8AuO8T
+ uDf+7C1lkux1wstEN6sjoHgeUQMRLPIVSDW4paBc/H/6vTqjnVaPpcTbJLwW28O49m6t4kZJ
+ OF2iHCFYVxB0psgOAgqe0Iw/ylWZcWq8Zeeeynh6ZTLp6HMWyOEL/5GVCnaMWCEkwre7K4nG
+ fEwcVgwgh6/a+2enY+VZbFIjecfJtDzEaRHu0Fa522eAqNzKXzDa/2iCd5wwTExic0IFva2i
+ 8gxMGIpNU+GOkYJYwp/5JEWxY9EglH0eidCqV+PqIIq5WncwUp60NABNfKFIIzSGpgMzy50o
+ Er94jriWR0hKuWe0BqZ722I39TVzCrCDdd6+LqQs6QCbEeo7mcXAQAaVF225+KyilO1W99FN
+ 2QZ5jdosK4z+0HtRdmVYvGjiGWFuhMaVocWDus75wzLwaq8DxulO1XohwVpMLQO3PLajxRxi
+ g/hcw/BbdC3jICodA==
+IronPort-HdrOrdr: A9a23:oNM4Pa+jz57jBJyIfnFuk+DBI+orL9Y04lQ7vn2ZLiYlEfBw9v
+ rPoB1173TJYVoqNU3I+urgBEDjexzhHPdOiOEs1NyZMDUO1lHDEGgb1+Xf/wE=
+X-Talos-CUID: =?us-ascii?q?9a23=3AdqBzrmqwrbjebW6PXuQRtIvmUZ0YXFKF6HzzH0W?=
+ =?us-ascii?q?hEUtOELylc3XMv6wxxg=3D=3D?=
+X-Talos-MUID: 9a23:P+LqNgmO5G0ZhATJlCySdnpZKZlzuKiVFnkMiLUaptagbBdqaj6k2WE=
+Received: from silene5.unige.ch (HELO unige.ch) ([10.13.13.15])
+  by lunigw2-internal.unige.ch with ESMTP; 11 Nov 2024 13:45:44 +0100
+Date: Mon, 11 Nov 2024 13:39:55 +0100
+To: claudine.schuchert@etu.unige.ch
+From: =?UTF-8?Q?Centre_de_carri=C3=A8re_UNIGE?= <carriere@unige.ch>
+Subject: =?UTF-8?Q?Vos_prochains_=C3=A9v=C3=A9nements_carri=C3=A8re:_derni=C3=A8re?=
+ =?UTF-8?Q?_ligne_droite_avant_2025!?=
+Message-ID: <017888daf58cd8e1048d6f211f324076@unige.ch>
+X-Mailer: PHPMailer 5.2.16 (https://github.com/PHPMailer/PHPMailer)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+
+--_000_efa0092f07eblunigw2unigech_--
