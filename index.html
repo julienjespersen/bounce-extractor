@@ -10,7 +10,16 @@
 </head>
 <body>
     <div class="container">
+        <h1 class="d-flex justify-content-center">e-mail extractor</h1>
         <div class="row mt-4">
+            <div class="d-flex justify-content-center">
+                <ol>
+                    <li>Sélectionnez un ou plusieurs fichiers (.eml, txt, …)</li>
+                    <li>L’extraction d’adresses e-mail démarre automatiquement</li>
+                    <li>Les occurences à double sont automatiquement retirées</li>
+                    <li>Exportez le fichier CSV avec les adresses extraites</li>
+                </ol>
+            </div>
             <div class="d-flex justify-content-center">
                 <input id="fileInput" class="form-control" type="file" multiple>
             </div>
@@ -19,7 +28,7 @@
         <div class="row mt-4">
             <div class="d-flex justify-content-center">
 
-                <button type="button" class="btn btn-primary">download CSV</button>
+                <button type="button" class="btn btn-primary">Télécharger CSV</button>
             </div>
         </div>
     </div>
