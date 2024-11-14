@@ -1,17 +1,31 @@
 const fileInput = document.getElementById('fileInput');
 const pre = document.querySelector('pre');
-const dlBtn = document.querySelector('button');
+const cleanup = document.querySelector('#cleanup');
+const dlBtn = document.querySelector('#download');
 let finalList = [];
 
 function extractEmail(text) {
-    const emailRegex = /[a-zA-Z0-9._-]+@[a-zA-Z0-9-]+\.[a-zA-Z]{2,6}/g;
+    const emailRegex = /[a-zA-Z0-9._-]+@[a-zA-Z0-9-.]+\.[a-zA-Z]{2,6}/g;
     return text.match(emailRegex);
 }
 
 function removeDuplicates(array) {
     return [...new Set(array)];
 }
+function moderate(email) {
+    if (email === email.toUpperCase()) {
+        return true
+    }
 
+    email.split(/[@.]/).forEach(part => {
+        if (part.length > 30) {
+            console.log(part)
+            return true
+        }
+    })
+
+    return false
+}
 
 
   
@@ -21,9 +35,6 @@ function processFiles(files) {
         const reader = new FileReader();
         reader.onload = function(e) {
             const contents = e.target.result;
-            console.log('File contents:', contents);
-
-
             if (contents) {
                 let emails = extractEmail(contents);
                 if (emails) {
@@ -33,11 +44,8 @@ function processFiles(files) {
                     newText = finalList.join('\n')
                     pre.textContent = newText
                 }
-                
-                console.table(finalList);
+                // console.table(finalList);
             }
-
-
         };
         reader.readAsText(file); // or readAsDataURL(file) for images
     }
@@ -68,8 +76,17 @@ fileInput.addEventListener('change', function(event) {
     processFiles(files);
 });
 
+cleanup.addEventListener('click', e => {
+    for (let index = 0; index < finalList.length; index++) {
+        if (moderate(finalList[index])) {
+            finalList.splice(index, 1)
+        }
+    }
+    newText = finalList.join('\n')
+    pre.textContent = newText
+
+})
 dlBtn.addEventListener('click', e => {
     console.log(finalList)
-
     downloadCSV(finalList)
 })
