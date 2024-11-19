@@ -10,7 +10,13 @@ var emails2 = []
 
 function extractEmail(text) {
     const emailRegex = /[a-zA-Z0-9._-]+@[a-zA-Z0-9-.]+\.[a-zA-Z]{2,6}/
-    return text.match(emailRegex)
+    let finding = text.match(emailRegex)
+    if (finding) {
+        return finding
+    } else {
+        return false
+    }
+    // return text.match(emailRegex)
 }
 function extractEmail2(text) {
     const emailRegex = /^To:.*$/m
