@@ -21,12 +21,12 @@
                 <ol>
                     <li>Sélectionnez un ou plusieurs fichiers (.eml, txt, …)</li>
                     <li>L’extraction d’adresses e-mail démarre automatiquement</li>
-                    <li>Repérez les fichiers où l’extraction n’a pas fonctionné</li>
+                    <li>Repérez, dans la liste, les fichiers où l’extraction n’a pas fonctionné</li>
                     <li>Exportez le fichier CSV avec les adresses extraites</li>
                 </ol>
             </div>
             <div class="d-flex justify-content-center">
-                <input id="fileInput" class="form-control" type="file" multiple>
+                <input id="fileInput" class="form-control w-50" type="file" multiple>
             </div>
             <pre class="d-flex justify-content-center"></pre>
         </div>
@@ -34,7 +34,7 @@
             <thead class="scroll-thead">
                 <tr>
                     <th>e-mail</th>
-                    <th>file</th>
+                    <th>fichier</th>
                 </tr>
             </thead>
             <tbody class="scroll-tbody-y table-body">
@@ -44,7 +44,7 @@
         </table>      
         <div class="row mt-4">
             <div class="d-flex justify-content-center">
-                <button id="download" type="button" class="btn btn-primary">download CSV</button>
+                <button id="download" type="button" class="btn btn-primary">Télécharger CSV</button>
             </div>
         </div>
     </div>
