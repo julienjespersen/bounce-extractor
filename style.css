@@ -1,3 +1,7 @@
+:root, [data-bs-theme=light] {
+    --bs-blue: #444445;
+    --bs-primary: #9d1ef0;
+}
 .scroll-thead{
     width: 100%;
     display: inline-table;
@@ -10,5 +14,5 @@
 }
 
 .table-body{
-    height: 30rem;
+    max-height: 30rem;
 }

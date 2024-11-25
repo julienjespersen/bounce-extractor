@@ -3,6 +3,7 @@ const pre = document.querySelector('pre')
 const tmlTableRow = document.getElementById('tml-table-row')
 const outTable = document.getElementById('out-table')
 
+const resetBtn = document.querySelector('#reset')
 const dlBtn = document.querySelector('#download')
 var emails2 = []
 
@@ -33,6 +34,15 @@ function myCleanup(anEmail) {
     }
 }
 
+function reset() {
+    emails2 = []
+    tableBody = outTable.querySelector('tbody')
+    while (tableBody.firstChild) {
+        tableBody.removeChild(tableBody.firstChild);
+    }
+    document.querySelector('input').value = ''
+}
+
 function addToTable(res, file) {
     let node = tmlTableRow.content.cloneNode(true).querySelector('tr')
     node.querySelector('.res').textContent = res
@@ -42,6 +52,9 @@ function addToTable(res, file) {
 }
 
 function downloadCSV(data, filename = 'export.csv') {
+    if (!data.length) {
+        return
+    }
     // Convert array to CSV string
     const csvContent = data.join('\n');
   
@@ -78,11 +91,16 @@ function processFiles(files) {
     }
 }
 
-fileInput.addEventListener('change', function(event) {
-    const files = event.target.files; // or use fileInput.files
+
+fileInput.addEventListener('change', e => {
+    const files = e.target.files; // or use fileInput.files
     processFiles(files);
 });
 
-dlBtn.addEventListener('click', e => {
+resetBtn.addEventListener('click', () => {
+    reset()
+})
+
+dlBtn.addEventListener('click', () => {
     downloadCSV(emails2)
 })
